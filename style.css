@@ -1,5 +1,11 @@
 .logo {
-    position: absoulute;
-    top: 20px;
-    left: 100px;
+    position: relative;
+    left: 800px;
+    top: 200px;
+}
+
+.search {
+    position: relative;
+    left: 812px;
+    top: 225px;
 }
