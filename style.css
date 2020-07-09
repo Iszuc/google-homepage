@@ -5,9 +5,12 @@
 }
 
 .search {
-    position: relative;
-    left: 812px;
-    top: 225px;
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+    top: 325px;
+    width: 500px;
+    height: 40px;
 }
 
 .topbar{
